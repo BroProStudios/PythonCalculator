@@ -1,4 +1,3 @@
-# define functions
 def add(x, y):
    """This function adds two numbers"""
 
@@ -19,7 +18,6 @@ def divide(x, y):
 
    return x / y
 
-# take input from the user
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
